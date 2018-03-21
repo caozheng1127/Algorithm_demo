@@ -35,7 +35,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class demo02 {
+public class demo02_地牢逃脱 {
     public static int BFS(boolean[][] maze,boolean[][] visit,int[] start,int[] end,int[][] dirs){
         Queue<int[]> queue = new LinkedList<>();
         int [] now,next;

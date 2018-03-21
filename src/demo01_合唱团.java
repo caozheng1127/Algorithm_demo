@@ -23,7 +23,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class demo01 {
+public class demo01_合唱团 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String line = null;
