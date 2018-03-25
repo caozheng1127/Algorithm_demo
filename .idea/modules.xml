@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm_demo.iml" filepath="$PROJECT_DIR$/Algorithm_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://E:\Users\applelab\IdeaProjects\test\Main\Main.iml" filepath="E:\Users\applelab\IdeaProjects\test\Main\Main.iml" />
     </modules>
   </component>
 </project>
