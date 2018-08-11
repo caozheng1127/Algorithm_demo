@@ -11,10 +11,7 @@ import java.util.Scanner;
 public class Main00 {
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-        String input = null;
-        while ((input = bf.readLine()) != null) {
-            int n = Integer.valueOf(input);
-        }
+        String[] input = bf.readLine().split(" ");
     }
 
     public static void main1(String[] args) {
