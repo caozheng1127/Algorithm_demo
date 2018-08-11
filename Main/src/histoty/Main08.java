@@ -1,8 +1,8 @@
-/**
+package histoty; /**
  * Created by tree on 2018/3/21.
  */
 //import java.util.*;
-//public class Main08 {
+//public class histoty.Main08 {
 //    public static final void main(String[] args) {
 //        Scanner in = new Scanner(System.in);
 //        while(in.hasNext()){

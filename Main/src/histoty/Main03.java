@@ -1,3 +1,5 @@
+package histoty;
+
 import java.util.Scanner;
 
 public class Main03 {

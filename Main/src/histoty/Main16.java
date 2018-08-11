@@ -1,3 +1,5 @@
+package histoty;
+
 import java.util.*;
 
 public class Main16 {

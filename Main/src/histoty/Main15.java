@@ -1,4 +1,4 @@
-//回文字符串
+package histoty;//回文字符串
 
 import java.util.*;
 public class Main15 {
