@@ -4,9 +4,9 @@ import java.io.InputStreamReader;
 
 /**
  * @Description
- * @date 2018/8/11 14:46
+ * @date 2018/8/11 14:48
  */
-public class Main25 {
+public class Main26 {
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         String input = null;
